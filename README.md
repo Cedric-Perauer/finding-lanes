@@ -9,4 +9,4 @@ What I Learned
 - create masks and use bitwise and to only focus on the relevant parts of the image and thereby save ressources 
 - segmenting video into single frames allows us to process videos 
 - unstable when only dashed lines are in the middle, doesn't work on curved roads
-- a lot more potential will probably be possible in the future with vastly different approach
+- a lot more potential will probably be possible with aastly different approach
